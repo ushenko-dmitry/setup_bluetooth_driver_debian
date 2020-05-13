@@ -1,4 +1,4 @@
-# setup_wifi_driver_debian
+# setup_bluetooth_driver_debian
 
 Драйвер для BCM 4314 2A0-04ca 2006
 
